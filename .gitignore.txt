@@ -1,9 +1,0 @@
-# Ignore sensitive config
-config/database.php
-
-# Ignore uploaded files
-public/uploads/*
-
-# Ignore system files
-.DS_Store
-Thumbs.db
